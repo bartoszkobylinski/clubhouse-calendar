@@ -1,7 +1,7 @@
 require "httparty"
 require "nokogiri"
 
-url = 'https://www.joinclubhouse.com/event/mZrL48zw'
+url = 'https://www.joinclubhouse.com/event/mg6nagEM'
 
 def get_clubhouse_room_information(url)
     
